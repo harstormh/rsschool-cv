@@ -1,1 +1,1 @@
-https://harstormh.github.io/rsschool-cv/cv
+https://harstormh.github.io/rsschool-cv/
